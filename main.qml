@@ -27,7 +27,7 @@ Window {
     //height: 700
 
     visible: true;
-    title: qsTr("Green Game");
+    title: qsTr("GL-qml");
     Component.onCompleted: {
         if(Qt.platform.os=="windows")
         {
@@ -904,8 +904,8 @@ Window {
         //标题
         Image {
             id:titlle;
-            width: 650
-            height: 100
+            width: 424
+            height: 96
             visible: true
             source: "qrc:/i/i/titlle.png"
             anchors.verticalCenterOffset: -124

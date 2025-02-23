@@ -3,7 +3,6 @@
         <file>main.qml</file>
     </qresource>
     <qresource prefix="/i">
-        <file>i/1.PNG</file>
         <file>i/titlle.png</file>
         <file>i/start.png</file>
         <file>i/artillery_dead.png</file>
